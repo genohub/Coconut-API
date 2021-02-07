@@ -16,7 +16,7 @@ Email만 사용하는 경우 : { "Email": "rlackstjdsla@naver.com", "Caller" : "
   
   요청 변수 | 설명 | 타입
   ------------ | ------------- | -------------
-  MobileNumber | Genohub 회원 휴대폰번호 | String/필수
+  PhoneNumber | Genohub 회원 휴대폰번호 | String/필수
   Email | Genohub 회원 이메일 | String/필수
   Caller | Caller Service | String/필수
   GHDUsage | GHD 사용량 | String/필수
